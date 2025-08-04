@@ -51,12 +51,13 @@ Admins are only responsible for managing student and committee accounts. They ca
    `npm install`
 
 3. Set up your `.env`  
-
-
-## 📂 Project Structure (MVC-style)
-
 ```
 PORT=5000
 DB_URL=postgresql://...
 JWT_SECRET=your_jwt_secret
 ```
+
+4. Run the server  
+`npm start` or `nodemon`
+
+
