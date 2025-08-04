@@ -32,6 +32,15 @@ Admins are only responsible for managing student and committee accounts. They ca
 - Enforced vote integrity and privacy
 
 ## 📂 Project Structure (MVC-style)
+```
+/src
+┣ /controllers
+┣ /models
+┣ /routes
+┣ /middleware
+┣ /utils
+┗ server.js
+```
 
 ## 🚀 Getting Started
 
